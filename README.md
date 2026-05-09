@@ -66,7 +66,7 @@ The global gaming industry peaked between **2007–2009**, fueled by the mass ad
 
 ## 📈 Interactive Dashboard
 
-![Dashboard GIF](image/vgsales-analysis.gif)
+![Dashboard GIF](image/vggales-analysis.gif)
 
 ### 🔧 Dashboard Features
 
