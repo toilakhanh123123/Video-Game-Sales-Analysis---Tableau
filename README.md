@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Analysis
+# 🎮 Video Game Sales Analysis - Tableau
 
 <img width="1536" height="829" alt="image" src="https://github.com/user-attachments/assets/f44dd32d-0d56-4c5e-8339-deb64adddeeb" />
 
@@ -95,23 +95,6 @@ The global gaming industry peaked between **2007–2009**, fueled by the mass ad
 | **Analytical Thinking** | Cross-regional comparison, Trend analysis, Genre/platform ecosystem mapping |
 | **Data Storytelling** | Translating raw numbers into 5 actionable business insights |
 | **Portfolio Presentation** | Professional README, Animated GIF preview, Structured file organization |
-
----
-
-## 📁 Repository Structure
-vgsales-analysis/
-│
-├── README.md # Project documentation & insights
-│
-├── data/
-│ └── vgsales.csv # Raw dataset (16.6K records)
-│
-├── image/
-│ ├── vgsales-dashboard-image.png # Static dashboard preview
-│ └── vgsales-analysis.gif # Animated dashboard walkthrough
-│
-└── tableau/
-└── ProjectVGsale.twbx # Packaged Tableau workbook
 
 ---
 
